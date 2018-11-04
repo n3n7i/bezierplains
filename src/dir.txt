@@ -1,0 +1,11 @@
+// Source directory for bezierplains
+
+t1.jl - Proof of concept implementation of quadratic bezier surfaces
+
+//------ Control points -------
+
+[Surface]  [Order 1]  [Surface]
+
+[Order 1]  [Order 2]  [Order 1]
+
+[Surface]  [Order 1]  [Surface]
